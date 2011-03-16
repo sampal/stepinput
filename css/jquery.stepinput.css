@@ -1,0 +1,19 @@
+/* CSS Document */
+.step_input_dec{
+	background: url(../images/decrement.gif) no-repeat;
+	padding-left: 15px;
+	cursor: pointer;
+	width: 15px;
+}
+
+.step_input_inc{
+	background: #ffffff url(../images/increment.gif) no-repeat;
+	padding-left: 17px;
+	cursor: pointer;
+	width: 19px;
+}
+
+.step_input_error{
+	color:#FF0000;
+	font-weight: bold;
+}
